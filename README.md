@@ -60,8 +60,6 @@ Visualizar calendario de reservas activas
 
 Ver listado completo de reservas con su estado
 
-Cancelar reservas (sin perder el historial)
-
 Eliminar reservas de forma definitiva
 
 Visualizar la disponibilidad de canchas por fecha y horario
@@ -100,5 +98,6 @@ py.exe -m pip freeze > requirements.txt
 ```
 
 ## NOTAS FINALES
+
 
 Este proyecto fue desarrollado aplicando buenas prácticas de programación en Python, siguiendo los lineamientos de PEP8, utilizando docstrings según PEP257 y tomando como guía principios del Zen de Python, priorizando la claridad, simplicidad y mantenibilidad del código.
